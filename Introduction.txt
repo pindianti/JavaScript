@@ -1,3 +1,12 @@
 Introduction
 JavaScript is the world's most popular programming language, JavaScript is the programming language of the Web
 
+Javascript adalah bahasa pemrograman yg awalnya dirancang untuk berjalan di atas browser.
+Seiring berkembangnya waktu, javascript tidak hanya digunakan di sisi client (browser) saja, 
+tetapi juga pada server, console, program desktop, mobile IoT, game, dan lain-lain.
+Hal paling dasar yg harus dipelajari:
+- Console Javascript
+- Program Javascript pertama
+#kode js dengan embed
+#kode js inline
+#kode js eksternal
